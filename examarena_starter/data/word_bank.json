@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "type": "vocab",
+    "prompt": "a departure from what is normal or expected",
+    "choices": [
+      "aberration",
+      "banality",
+      "constancy",
+      "paragon"
+    ],
+    "answerIndex": 0,
+    "meta": {
+      "difficulty": "M"
+    }
+  },
+  {
+    "id": 2,
+    "type": "vocab",
+    "prompt": "to regard with disgust and hatred",
+    "choices": [
+      "abhor",
+      "adorn",
+      "appease",
+      "abet"
+    ],
+    "answerIndex": 0,
+    "meta": {
+      "difficulty": "M"
+    }
+  },
+  {
+    "id": 3,
+    "type": "vocab",
+    "prompt": "difficulties; misfortune",
+    "choices": [
+      "adversity",
+      "serenity",
+      "levity",
+      "prosperity"
+    ],
+    "answerIndex": 0,
+    "meta": {
+      "difficulty": "M"
+    }
+  },
+  {
+    "id": 4,
+    "type": "vocab",
+    "prompt": "to make suffering less severe",
+    "choices": [
+      "alleviate",
+      "aggravate",
+      "allocate",
+      "alienate"
+    ],
+    "answerIndex": 0,
+    "meta": {
+      "difficulty": "M"
+    }
+  },
+  {
+    "id": 5,
+    "type": "vocab",
+    "prompt": "friendly and pleasant",
+    "choices": [
+      "amiable",
+      "amicable",
+      "amass",
+      "amorphous"
+    ],
+    "answerIndex": 0,
+    "meta": {
+      "difficulty": "E"
+    }
+  }
+]
